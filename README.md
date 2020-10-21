@@ -1,8 +1,6 @@
-# Pancakeswap SDK
+# StablexSwap SDK
 
-[![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
-[![Actions Status](https://github.com/pancakeswap/pancakeswap-sdk/workflows/CI/badge.svg)](https://github.com/pancakeswap/pancakeswap-sdk)
-[![npm version](https://img.shields.io/npm/v/@pancakeswap-lib/sdk/latest.svg)](https://www.npmjs.com/package/@pancakeswap-lib/sdk/v/latest)
+Forked from [Uniswap](https://github.com/Uniswap)
 
 ## Running tests
 
@@ -11,13 +9,13 @@ To run the tests, follow these steps. You must have at least node v10 and [yarn]
 First clone the repository:
 
 ```sh
-git clone https://github.com/pancakeswap/pancakeswap-sdk.git
+git clone https://github.com/Stablexlabs/StablexSwap-sdk.git
 ```
 
-Move into the pancakeswap-sdk working directory
+Move into the stablex-sdk working directory
 
 ```sh
-cd pancakeswap-sdk/
+cd stablex-sdk/
 ```
 
 Install dependencies
