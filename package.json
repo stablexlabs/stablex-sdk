@@ -1,16 +1,16 @@
 {
-  "name": "@pancakeswap-libs/sdk",
+  "name": "@stablexswap-libs/sdk",
   "license": "MIT",
   "version": "1.0.1",
-  "description": "🛠 An SDK for building applications on top of pancakeswap.",
+  "description": "🛠 An SDK for building applications on top of stablexswap.",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
   "files": [
     "dist"
   ],
-  "repository": "https://github.com/pancakeswap/pancakeswap-sdk.git",
+  "repository": "https://github.com/stablexlabs/stablex-sdk",
   "keywords": [
-    "pancakeswap",
+    "stablexswap",
     "ethereum"
   ],
   "module": "dist/sdk.esm.js",
@@ -56,5 +56,8 @@
     "printWidth": 120,
     "semi": false,
     "singleQuote": true
+  },
+  "resolutions": {
+    "@truffle/hdwallet-provider": "^1.1.1"
   }
 }
