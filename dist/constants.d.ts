@@ -25,6 +25,8 @@ export declare const TEN: JSBI;
 export declare const _100: JSBI;
 export declare const _997: JSBI;
 export declare const _1000: JSBI;
+export declare const _10000: JSBI;
+export declare const _9994: JSBI;
 export declare enum SolidityType {
     uint8 = "uint8",
     uint256 = "uint256"
